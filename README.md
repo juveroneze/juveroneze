@@ -1,7 +1,7 @@
 ### Oláa! Eu sou a Juliana Veroneze
 
-Sou estudante de desenvolvimento, então ainda estou aprendendo ^^
-##
+Sou estudante de desenvolvimento de sistemas e formada em Biblioteconomia. <br>
+Estou procurando aprender cada vez mais sobre programação para futuramente me tornar uma desenvolvedora.
 
  <div>
  <a href="https://github.com/juveroneze">
